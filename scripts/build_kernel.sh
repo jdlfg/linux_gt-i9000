@@ -6,4 +6,4 @@ cd ..
 cp Kernel/arch/arm/boot/zImage .
 
 tar cvf voodoo.tar zImage
-ls -lh voodoo.tar
+ls -lh zImage
